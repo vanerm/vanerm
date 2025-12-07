@@ -19,7 +19,7 @@ Disfruto transformar datos complejos en soluciones útiles, visualizaciones clar
 👉 https://github.com/vanerm/cv-alchemist
 
 ### • Análisis y modelos de predicción (EDA, ML, visualización)
-- Proyecto Olist – EDA • Feature Engineering • Machine Learning • Logística • NLP • Geoanálisis    
+- Olist Marketplace – EDA • Feature Engineering • Machine Learning • Logística • NLP • Geoanálisis    
   👉 https://github.com/vanerm/olist-data-science-project  
 - Airbnb NYC – EDA, visualizaciones y regresión  
   👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success  
