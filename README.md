@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Vanesa Mizrahi 👋  
 
-<!--
-**vanerm/vanerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora iOS y Data Scientist en formación, con foco en aplicar Ciencia de Datos, Machine Learning e Inteligencia Artificial a problemas reales.  
+Disfruto transformar datos complejos en soluciones útiles, visualizaciones claras y productos que mejoren la toma de decisiones.
 
-Here are some ideas to get you started:
+## 🚀 Áreas de interés
+- Desarrollo móvil iOS (Swift, UIKit, SwiftUI)
+- Machine Learning & Ciencia de Datos aplicada
+- Ingeniería de prompts y aplicaciones con IA
+- Dashboards y visualización de datos
+- Integración de APIs y automatización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- **CV Alchemist 2.0** – App web en Streamlit que crea y optimiza CVs con IA  
+  👉 https://github.com/vanerm/cv-alchemist-2.0
+
+- **CV Alchemist (MVP original)** – Prototipo del curso previo de Prompt Engineering  
+  👉 https://github.com/vanerm/cv-alchemist
+
+- **Análisis y modelos de predicción** (EDA, ML, visualización)  
+  - Proyecto Olist – EDA, Machine Learning & Business Insights  
+    👉 https://github.com/vanerm/olist-data-science-project  
+  - Airbnb NYC – EDA, visualizaciones y regresión  
+    👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success  
+  - CV Alchemist 2.0 (IA + Streamlit) — también incluye componentes predictivos  
+    👉 https://github.com/vanerm/cv-alchemist-2.0  
+  - Portfolio de visualizaciones (Tableau)  
+    👉 https://public.tableau.com/app/profile/vanesa.mizrahi/vizzes
+
+## 🛠️ Tecnologías
+**Lenguajes:** Python · Swift · SQL  
+**Frameworks:** Streamlit · scikit-learn · Pandas · Matplotlib  
+**IA / LLMs:** OpenAI · Gemini · Prompt Engineering  
+**Herramientas:** Git/GitHub · Kaggle · MySQL · Jupyter · Tableau
+
+## 📫 Conectemos
+- **LinkedIn:** https://www.linkedin.com/in/vanesamizrahi/
