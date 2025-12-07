@@ -18,12 +18,13 @@ Disfruto transformar datos complejos en soluciones útiles, visualizaciones clar
   👉 https://github.com/vanerm/cv-alchemist
 
 - **Análisis y modelos de predicción** (EDA, ML, visualización)  
-  - Proyecto Olist – EDA, Machine Learning & Business Insights  
+  - Proyecto Olist – EDA • Feature Engineering • Machine Learning • Logística • NLP • Geoanálisis  
     👉 https://github.com/vanerm/olist-data-science-project  
   - Airbnb NYC – EDA, visualizaciones y regresión  
-    👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success  
-  - CV Alchemist 2.0 (IA + Streamlit) — también incluye componentes predictivos  
-    👉 https://github.com/vanerm/cv-alchemist-2.0  
+    👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success
+  - AppCoder – Aplicación web en Django para gestión de cursos, alumnos y profesores  
+  👉 https://github.com/vanerm/CursoPython  
+  _Proyecto desarrollado para la materia de Python en la Diplomatura de Data Science (CoderHouse)_   
   - Portfolio de visualizaciones (Tableau)  
     👉 https://public.tableau.com/app/profile/vanesa.mizrahi/vizzes
 
