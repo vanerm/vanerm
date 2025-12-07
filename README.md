@@ -10,23 +10,29 @@ Disfruto transformar datos complejos en soluciones útiles, visualizaciones clar
 - Dashboards y visualización de datos
 - Integración de APIs y automatización
 
-## 📂 Proyectos Destacados
-- **CV Alchemist 2.0** – App web en Streamlit que crea y optimiza CVs con IA  
-  👉 https://github.com/vanerm/cv-alchemist-2.0
+## ⭐ Proyectos Destacados
 
-- **CV Alchemist (MVP original)** – Prototipo del curso previo de Prompt Engineering  
-  👉 https://github.com/vanerm/cv-alchemist
+### • CV Alchemist 2.0 – App web en Streamlit para crear y optimizar CVs  
+👉 https://github.com/vanerm/cv-alchemist-2.0
 
-- **Análisis y modelos de predicción** (EDA, ML, visualización)  
-  - Proyecto Olist – EDA • Feature Engineering • Machine Learning • Logística • NLP • Geoanálisis  
-    👉 https://github.com/vanerm/olist-data-science-project  
-  - Airbnb NYC – EDA, visualizaciones y regresión  
-    👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success
-  - AppCoder – Aplicación web en Django para gestión de cursos, alumnos y profesores  
-  👉 https://github.com/vanerm/CursoPython  
-  _Proyecto desarrollado para la materia de Python en la Diplomatura de Data Science (CoderHouse)_   
-  - Portfolio de visualizaciones (Tableau)  
-    👉 https://public.tableau.com/app/profile/vanesa.mizrahi/vizzes
+### • CV Alchemist (MVP original) – Prototipo del curso previo de Prompt Engineering  
+👉 https://github.com/vanerm/cv-alchemist
+
+### • Análisis y modelos de predicción (EDA, ML, visualización)
+- Proyecto Olist – EDA, Machine Learning & Business Insights  
+  👉 https://github.com/vanerm/olist-data-science-project  
+- Airbnb NYC – EDA, visualizaciones y regresión  
+  👉 https://www.kaggle.com/code/vanesamizrahi/airbnb-nyc-eda-viz-regression-for-success  
+- CV Alchemist 2.0 – Predicciones + IA integradas  
+  👉 https://github.com/vanerm/cv-alchemist-2.0  
+
+### 📈 Portfolio de visualizaciones
+- **Tableau – Portfolio de dashboards interactivos**  
+  👉 https://public.tableau.com/app/profile/vanesa.mizrahi/vizzes
+
+- **Looker Studio – Análisis logístico y performance de envíos (Dashboard completo)**  
+  👉 https://lookerstudio.google.com/reporting/8f0f257a-b3c9-43e0-a2d8-a236261584e0
+
 
 ## 🛠️ Tecnologías
 **Lenguajes:** Python · Swift · SQL  
